@@ -1,0 +1,308 @@
+{
+	"header": {
+		"nav": {
+			"services": "Xidmətlərimiz",
+			"projects": "Layihələr",
+			"analytics": "Analitika",
+			"blogs": "Blog",
+			"about": "Biz kimik?",
+			"contactUs": "Bizimlə əlaqə",
+			"followUs": "Bizi izləyin"
+		}
+	},
+	"footer": {
+		"title": "Bizimlə indi əlaqəyə keçin",
+		"nav": {
+			"services": "Xidmətlərimiz",
+			"projects": "Layihələr",
+			"analytics": "Analitika",
+			"blogs": "Blog",
+			"about": "Haqqımızda",
+			"followUs": "Bizi izləyin"
+		},
+		"address": {
+			"Azerbaijan": "Azərbaycan",
+			"azAdress": "Azure Business Center 8 Noyabr, 15 Bakı, Azərbaycan AZ1010",
+			"Canada": "Kanada",
+			"caAdress": "Edmonton, Alberta",
+			"Georgia": "Gürcüstan",
+			"geAdress": "Tbilisi, Gürcüstan"
+		}
+	},
+	"services": {
+		"pageInfo": {
+			"title": "Xidmətlərimiz",
+			"description": "Şirkət daxilindəki prosesləri və müştərilərlə əlaqəni avtomatlaşdırılmış şəkildə həyata keçirtmək və bazarda innovativ şəkildə inkişaf etmək üçün bizim xidmətlərdən yararlanın."
+		},
+		"common": {
+			"contactUs": "Bizimlə əlaqə saxlayın",
+			"projects": "İşlərimizə nəzər yetirin"
+		},
+		"software": {
+			"name": "Proqram Təminatı",
+			"title": "Proqram Təminatı",
+			"description": "BIRainy şirkətlərin istəklərinə uyğun olaraq proqram təminatı hazırlayır. Proqramın son trendlərə və interfeysinin rahat istifadəyə uyğun olması əsas üstünlüyümüzdür. \n\n Müxtəlif sistemlər və mobil tətbiqlər, OCR əsaslı Sürətli Axtarış Sistemi, Telegram Bot-lar sayəsində şirkətlər müştəri əlaqələrinin gücləndirilməsinə, şirkət daxilindəki əməkdaşlar arasındakı işlərin idarə edilməsinə, prosesin sürətləndirilə və manuallığın azalıb avtomatlaşdırılmış formada həyata keçirilməsinə nail olurlar."
+		},
+		"fastSearch": {
+			"name": "Sürətli Axtarış Sistemi",
+			"title": "Sürətli Axtarış Sistemi",
+			"description": "Şirkətdaxili və xarici proseslərin həyata keçirilməsi, həmçinin əməkdaşların şirkət daxilindəki sənədləri avtomatlaşdırılmış şəkildə axtarış edib, rahatlıqla yerləşdirib, toplaya və göndərə bildikləri OCR alqoritmi ilə hazırlanmış Sürətli Axtarış Sistemi."
+		},
+		"crm": {
+			"name": "CRM and ERP",
+			"title": "CRM and ERP",
+			"system": {
+				"title": "CRM sistemi ilə şirkətlərin qazandığı üstünlüklər:",
+				"items": {
+					"item1": "Rutin tapşırıqların avtomatlaşdırılması;",
+					"item2": "Müştərilərin davranışı haqqında anlayışlar;",
+					"item3": "Müştəriləri ilə güclü, davamlı əlaqələr qurmaq üçün qarşılıqlı əlaqələr."
+				}
+			}
+		},
+		"erp": {
+			"system": {
+				"title": "ERP sistemi şirkətlər üçün təmin edir:",
+				"items": {
+					"item1": "Əsas biznes proseslərini mərkəzləşdirilmiş şəkildə idarə olunmasını;",
+					"item2": "Dəqiq və real vaxt rejimində məlumatı;",
+					"item3": "Məhsuldarlığın və səmərəliliyin yüksəldilməsini;",
+					"item4": "Əməliyyat xərclərinin azaldılmasını."
+				}
+			}
+		},
+		"mobileApp": {
+			"name": "Mobil tətbiqlər",
+			"title": "Mobil tətbiqlər",
+			"description": "Müştərilərin tələblərinə uyğun olaraq son trendlərə əsaslanaraq mobil tətbiq UX/UI dizaynerlər tərəfindən istifadəçi üçün rahat və gözoxşayan şəkildə dizayn edilir. Dizayna əsasən də müxtəlif proqramlaşdırma dilləri və kitabxanası ilə ən yeni texnologiyalardan istifadə edərək kodlaşdırılır. Yazdığımız mobil tətbiqlər həm IoS, həm də Android əməliyyat sistemində dəstəklənə bilir."
+		},
+		"website": {
+			"name": "Saytların yaradılması",
+			"title": "Saytların yaradılması",
+			"description": "Şirkətlərin vizyonuna uyğun olaraq sayt hazırlayırıq. Sayt trendə uyğun olaraq dizaynerlərimiz tərəfindən dizayn edilir. HTML5, CSS, JS (react js., vue js., angular js.) kimi proqramlaşdırma dilləri ilə son texnologiyalardan istifadə edərək piksel dəqiqliyində kodlaşdırılıb müxtəlif ölçülü mobil və digər cihazlara uyğunlaşdırılır. Sonda qurulmuş sayt üçün sistem arxitekturası yaradılır və maksimum sürətli işləməsi təmin edilir.",
+			"uxui": {
+				"title": "UI/UX dizayn",
+				"description": "Şirkətin vizyonuna uyğun son trendlərə əsaslanan istifadəçi interfeysinin dizayn edilməsi."
+			},
+			"mobileOptimization": {
+				"title": "Mobil Optimizasiya",
+				"description": "Vebsaytın müxtəlif ölçülü mobil cihazlara uyğunlaşdırılması."
+			},
+			"frontend": {
+				"title": "Front-end",
+				"description": "Dizaynların HTML, CSS, JS kimi müxtəlif proqramlaşdırma dilləri ilə piksel dəqiqliyində kodlaşdırılması."
+			},
+			"backend": {
+				"title": "Back-end",
+				"description": "Sistem arxitekturasının yaradılması və maksimum sürətli işləməsinin təmin edilməsi."
+			},
+			"security": {
+				"title": "Kiber Təhlükəsizlik",
+				"description": "Sistemlərin, şəbəkələrin, proqramların, cihazların və məlumatların kiberhücumlardan qorunması."
+			},
+			"seo": {
+				"title": "SEO",
+				"description": "Saytların keywordlərə uyğun axtarış sistemlərində ilk sıralarda görünməsini təmin etmək."
+			}
+		},
+		"gaming": {
+			"name": "Oyun təminatı",
+			"title": "Oyun təminatı",
+			"description": "Şirkətin fəaliyyət göstərdiyi istiqamətə, istehsal etdiyi məhsullara uyğun olaraq oyun ssenarisi hazırlanır, son trendlərə əsaslanaraq dizayn olunur və oyun developerləri tərəfindən 2D və 3D formatında oyunlar yazılır. Oyunun növünə uyğun assetlərdən istifadə edilir.",
+			"vr": {
+				"name": "Stend və VR oyunları",
+				"title": "Stend və VR oyunları",
+				"description": "BIRainy şirkəti şirkətlərin istəyinə və istifadə edəcəkləri istiqamətə uyğun olaraq özlərinə məxsus elementlərin, logonun da yer aldığı və müştərilərinin endirimlər qazanaraq əylənə bilmələri üçün stend və VR oyunlar yazır.",
+				"list": {
+					"title": "Stend və VR oyunları event, forumlar, tədbirlər, açılışlarda şirkətə qazandırır:",
+					"items": {
+						"item1": "Müştərilərin diqqətini 1-ə 5 artırmaq;",
+						"item2": "Müştərilərin hansısa konkret məhsula (məhsullara) daha çox diqqət və maraq göstərməsini təmin etmək;",
+						"item3": "Tədbirlərin əyləncə hissəsini daha maraqlı və aktiv hala gətirmək;",
+						"item4": "Orqanik reklam yaratmaq."
+					}
+				}
+			},
+			"web": {
+				"name": "Veb oyunlar",
+				"title": "Veb oyunlar",
+				"description": "İstifadəçinin uzun müddət veb-saytda qalması və axtarış sistemində biznes veb-saytlarının təbii yollarla artımını təmin etmək üçün veb oyunların yazılması",
+				"list": {
+					"items": {
+						"item1": "Axtarış sistemində biznes veb-saytlarının təbii yollarla artımını təmin edir;",
+						"item2": "Sayta daxil olan şəxslərin saytda daha çox vaxt keçirməsini təmin edir;",
+						"item3": "Saytın aktivliyini artırır və trafik axınını təmin edir;",
+						"item4": "Axtarış motorlarında saytın ön sıralarda görünməsini təmin edir."
+					}
+				}
+			},
+			"simulator": {
+				"name": "VR simulyatorlar",
+				"title": "VR simulyatorlar",
+				"description": "BIRainy tərəfindən şirkətlərin istəklərinə uyğun olaraq VR simulyatorlar yazılır və hololens, ocolus kimi VR eynəklərlə təmin edilir.",
+				"accordion": {
+					"item1": {
+						"title": "Satış",
+						"description": "Texnologiya sektoru, məişət avadanlıqları mağazalarında müştərilərin virtual olaraq məhsulu sınaqdan keçirməsi"
+					},
+					"item2": {
+						"title": "VR öyrənmə simulyatorları",
+						"description": "Təcrübəçilərin praktiki biliklərinin VR simulatorlar ilə artırılması"
+					},
+					"item3": {
+						"title": "Muzey",
+						"description": "Sənət əsərlərinə, tarixi hadisə və şəxsiyyətlərin həyatına səyahət edilməsi"
+					},
+					"item4": {
+						"title": "Virtual Turizm",
+						"description": "Turistlərin və ya sərnişinlərin virtual olaraq öncədən gedəcəyi yeri və oteli səyahət etməsi"
+					},
+					"item5": {
+						"title": "İnşaat",
+						"description": "VR texnologiyası ilə bina haqqında məlumatların əks etdirilməsi və binanın ətrafında 360° gəzməyin təmin edilməsi"
+					},
+					"item6": {
+						"title": "İstehsalat",
+						"description": "Montaj xəttinin konfiqurasiyalarını, istehsaldakı prosesləri simulyasiya edərək potensial təhlükəli vəziyyətlərin aşkarlanması"
+					}
+				}
+			},
+			"monitor": {
+				"name": "Oyun monitoru kirayəsi",
+				"title": "Oyun monitoru kirayəsi",
+				"description": "Təqdim etdiyimiz stend oyunlarla birgə monitorları da kirayələmək mümkündür.",
+				"cards": {
+					"item1": {
+						"title": "Ekran dioqanalı",
+						"description": "139sm (55')"
+					},
+					"item2": {
+						"title": "Gövdəsi",
+						"description": "Dəmir karkas"
+					},
+					"item3": {
+						"title": "Monitor",
+						"description": "Anti-vandal şüşə, qoruyucu ekran və touch sensor panel"
+					}
+				}
+			}
+		},
+		"analytics": {
+			"name": "Data Analitikası",
+			"title": "Data Analitikası",
+			"description": "BIRainy MMC tərəfindən şirkətin dataları bütün mənbələrdən müxtəlif formatlarda toplandıqdan sonra təmizlənir. Təmizlənmiş datalar qrafiklərlə vizuallaşdırılır və analiz olunduqdan sonra biznes yönümlü analitik həllər şirkətə təklif edilir. Son mərhələdə hazırlanmış dashboard-larda şirkət real vaxt rejimində yeni datalara əsasən məlumatları da görə bilir.",
+			"financial": {
+				"name": "Maliyyə təhlili",
+				"title": "Maliyyə təhlili",
+				"description": "Bu təhlilin məqsədi şirkətin gəlirliliyini, likvidliyini və ödəmə qabiliyyətini qiymətləndirmək, əsaslandırılmış investisiya və ya kredit qərarları qəbul etməkdir.",
+				"list": {
+					"title": "Maliyyə təhlili şirkətin və ya təşkilatın maliyyə vəziyyətini qiymətləndirmək üçün:",
+					"items": {
+						"item1": "Onun maliyyə hesabatlarını",
+						"item2": "Mənfəət və zərər hesabatlarını",
+						"item3": "Pulun dövriyyəsi haqqında hesabatları yoxlamağı əhatə edir. "
+					}
+				}
+			},
+			"hr": {
+				"name": "İnsan Resurslarının təhlili",
+				"title": "İnsan Resurslarının təhlili",
+				"description": "HR təhlilinin son məqsədi işçi qüvvəsinin planlaşdırılması üçün nümunələri, təkmilləşdirilməli sahələri və strateji imkanları müəyyən etməkdir.",
+				"list": {
+					"title": "İnsan resurslarının təhlili şirkətin işçilərinə aid məlumatların toplanması və təhlilini əhatə edir. Bu cür təhlil həm kəmiyyət, həm də keyfiyyət metodlarından istifadə etməklə həyata keçirilir, bura daxildir:",
+					"items": {
+						"item1": "Kadr dəyişikliyi dərəcələri",
+						"item2": "İşə qəbul xərcləri",
+						"item3": "İşçilərin məşğulluq səviyyəsi",
+						"item4": "Təlimin effektivliyi kimi göstəricilərin qiymətləndirilməsi."
+					}
+				}
+			},
+			"optimization": {
+				"name": "Optimizasiya təhlili",
+				"title": "Optimizasiya təhlili",
+				"description": "Optimallaşdırma təhlili resursların bölüşdürülməsi və ya seçim edilməsini nəzərdə tutan problemin optimal həllini müəyyən etmək üçün riyazi model və metodlardan istifadə prosesinə aiddir. Optimallaşdırma təhlili maliyyə, mühəndislik, logistika və əməliyyatların idarə edilməsi kimi sahələrdə geniş tətbiq sahəsinə malikdir və səmərəliliyin artırılmasına, xərclərin azaldılmasına, təkmilləşdirilmiş performansa kömək edir."
+			},
+			"procurement": {
+				"name": "Satınalma təhlili",
+				"title": "Satınalma təhlili",
+				"list": {
+					"title": "Satınalma təhlili şirkətin satınalma fəaliyyəti haqqında məlumat əldə etmək və xərclərə qənaət, prosesi təkmilləşdirmək imkanlarını aşkar etmək üçün onun satınalma fəaliyyətini nəzərdən keçirməkdir. Bunun üçün tendensiyaları, potensial riskləri və təkmilləşdirmə tələb edən sahələri müəyyən edilib satınalma sifarişləri, təchizatçı performansı və inventar səviyyələri kimi müxtəlif məlumatlar təhlil edilir. Satınalma təhlili şirkətlərə aşağıdakı mövzularda əsaslandırılmış qərarlar qəbul etməkdə kömək edir, bu da daha yüksək səmərəliliyə və gəlirliliyə gətirib çıxarır:",
+					"items": {
+						"item1": "Tədarükçü seçimi",
+						"item2": "Müqavilə danışıqları",
+						"item3": "İnventarın idarə edilməsi"
+					}
+				}
+			},
+			"kpi": {
+				"name": "Əsas Performans Göstəriciləri",
+				"title": "Əsas Performans Göstəriciləri (KPI) təhlili",
+				"description": "KPI təhlili şirkətin fəaliyyətinin onun strateji məqsəd və vəzifələrinə uyğun qiymətləndirilməsini əhatə edir. Bu proses, müştəri saxlamaq dərəcəsi, satış artımı və ya işçilərin məhsuldarlığı kimi şirkətin uğuru üçün vacib olan KPI-lərin seçilməsini və izlənilməsini nəzərdə tutur. Əsas Performans Göstəriciləri təhlili şirkətin fəaliyyətinə dair fikirlər təqdim edən dəyərli vasitədir və biznes nəticələrini yaxşılaşdırmaq üçün məlumatlara uyğun əsaslandırılmış qərarlar qəbul etməyə imkan verir."
+			},
+			"integration": {
+				"name": "1C proqramı ilə inteqrasiya",
+				"title": "1C proqramı ilə inteqrasiya",
+				"description": "1C proqramından verilənlərin Microsoft Power BI-a qoşulması biznes məlumatlarının təhlili və vizuallaşdırılması üçündür. Bu inteqrasiya şirkətlərə real vaxt rejimində məlumat təhlilindən istifadə etməklə yaxşı əsaslandırılmış qərarlar qəbul etmək imkanı verir."
+			},
+			"hse": {
+				"name": "SƏTƏM təhlili",
+				"title": "SƏTƏM təhlili",
+				"description": "Sağlamlıq, Əməyin Təhlükəsizliyi və Ətraf Mühit (SƏTƏM) risklərinin təhlili layihə və ya əməliyyatla bağlı potensial təhlükələrin qiymətləndirilməsini əhatə edir. Məqsədi bu risklərin ehtimalını və nəticələrini müəyyən etmək, təşkilatlara effektiv risklərin idarə edilməsi yanaşmalarını həyata keçirməyə imkan yaratmaqdır. SƏTƏM təhlili iş yerinin təhlükəsizliyinin və tənzimləmə qaydalarına uyğunluğun, xüsusən də, tikinti, istehsal və enerji kimi sənayelərin qorunmasında vacibdir."
+			},
+			"sales": {
+				"name": "Satış/KPI",
+				"title": "Satış/KPI",
+				"description": "BIRainy tərəfindən təqdim olunan Satış və KPI analizi hesabatı, satış prosesinin müxtəlif fazalarını izləməyə imkan verir. Bu hesabat vasitəsilə sahibkarlar, anbarların vəziyyəti, müştəri qruplarının seçimləri, satışlar və əldə edilmiş gəlirlər haqqında detallı məlumatla təchiz olunurlar.",
+				"list": {
+					"title": "Hesabat bu metrikləri ehtiva edir:",
+					"items": {
+						"item1": "Qoyulmuş hədəflərə nə qədər nail olunduğu, hansı ərazilərdə daha yaxşı və ya pis nəticə əldə edildiyi",
+						"item2": "Lokal ərazilərdə üstünlük verilən məhsullar və markalar",
+						"item3": "Müxtəlif dövrlər ərzində həyata keçən satışların analizi, ən gəlirli günlərin təhlili",
+						"item4": "Müştərilərin demoqrafik göstəricilər üzrə almağa daha meyilli olduğu məhsul və markalar",
+						"item5": "Müştərilərin üstünlük verdiyi ödəniş üsulları və valyuta",
+						"item6": "Anbarlara daxil olan və oradan mağazalara daşınan məhsullar haqqında statistikalar"
+					}
+				}
+			},
+			"social": {
+				"name": "Sosial Media",
+				"title": "Sosial Media",
+				"description": "BIRainy tərəfindən Sosial Media üzrə vizuallaşdırılmış dashboard idarə olunan platformalarda performans göstəricilərinin hərtərəfli təhlilini təqdim edir. Təhlildə diqqət real vaxt çərçivəsində auditoriya ilə qarşılıqlı əlaqə, məzmunun effektivliyi və platformanın ümumi inkişafı ilə bağlı fikirləri təqdim edən əsas göstəricilərə yönəlib.",
+				"list": {
+					"title": "Təhlilin komponetləri bunlardır:",
+					"items": {
+						"item1": "Ümumi like/comment/follower/post/impressions/reached",
+						"item2": "Klik və yeni izləyicilərin sayı",
+						"item3": "Şərh və bəyənmələrin tarix üzrə analizi",
+						"item4": "Fəaliyyətlərin faiz bölgüsü və s."
+					}
+				}
+			},
+			"restaurant": {
+				"name": "Restoranlar",
+				"title": "Restoranlar",
+				"description": "Restoranlar üzrə təhlil restoranın fəaliyyətinin müxtəlif aspektləri haqqında məlumat verən mühüm vasitədir. O, maliyyə sağlamlığını qiymətləndirməyə, qərar qəbul etməyə, inventarları idarə etməyə, müştərilərin seçimlərini başa düşməyə, işçilərin fəaliyyətini qiymətləndirməyə və qaydalara uyğunluğu təmin etməyə kömək edir.",
+				"list": {
+					"title": "BIRainy komandası tərəfindən hazırlanmış dashboardu əhatə edir:",
+					"items": {
+						"item1": "Restoran barədə ümumi informasiya(menyu,kateqoriya və filial sayı)",
+						"item2": "Servis/Qida reytinqi",
+						"item3": "Ortalama xidmət zamanı",
+						"item4": "Kateqoriyalar/Restoranlar/Ödəmə tipi/Müştəri tipi/Sifarişin növü/Menyular üzrə ödəniş",
+						"item5": "Məhsullar üzrə porsiya sayı",
+						"item6": "Ümumi ödəniş",
+						"item7": "Ödənişlərin keçən ayla faiz fərqi",
+						"item8": "Müştəri sayı",
+						"item9": "Müştəri sayının keçən ayla faiz fərqi",
+						"item10": "Tarix üzrə ödənişlər və müştəri sayının dinamikası",
+						"item11": "Rüblər üzrə müştəri sayının faizlə bölgüsü",
+						"item12": "Tarix üzrə məhsul və xidmət reytinqinin dinamikası",
+						"item13": "Məhsulların təsviri"
+					}
+				}
+			}
+		}
+	}
+}

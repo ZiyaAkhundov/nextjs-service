@@ -1,0 +1,308 @@
+{
+	"header": {
+		"nav": {
+			"services": "Services",
+			"projects": "Projects",
+			"analytics": "Analytics",
+			"blogs": "Blogs",
+			"about": "About Us",
+			"contactUs": "Contact Us",
+			"followUs": "Follow Us"
+		}
+	},
+	"footer": {
+		"title": "Get in touch with us now",
+		"nav": {
+			"services": "Services",
+			"projects": "Projects",
+			"analytics": "Analytics",
+			"blogs": "Blogs",
+			"about": "About Us",
+			"followUs": "Follow Us"
+		},
+		"address": {
+			"Azerbaijan": "Azerbaijan",
+			"azAdress": "Azure Business Center 8 Noyabr, 15 Baku, Azerbaijan AZ1010",
+			"Canada": "Canada",
+			"caAdress": "Edmonton, Alberta",
+			"Georgia": "Georgia",
+			"geAdress": "Tbilisi, Georgia"
+		}
+	},
+	"services": {
+		"pageInfo": {
+			"title": "Services",
+			"description": "We are offering a number of services which will help you to realize your business wishes quickly and effectively."
+		},
+		"common": {
+			"contactUs": "Contact Us",
+			"projects": "Visit our projects"
+		},
+		"software": {
+			"name": "Software development",
+			"title": "Software development",
+			"description": "BIRainy develops software taking due regard to the wants and needs of the businesses. The programs created by us are compatible with the latest trends, while the interfaces are user-friendly.\n\n Thanks to various systems and mobile apps, OCR-based Fast Search System, Telegram Bots, businesses can strengthen consumer relations, effectively manage the workload of the employees, speed up the process and replace the manual workflow with automated solutions."
+		},
+		"fastSearch": {
+			"name": "Fast Search System",
+			"title": "Fast Search System",
+			"description": "Fast Search System developed with the OCR algorithm which ensures the implementation of internal and external processes, as well as automated search, storage, governance and management of the documents alongside extracted data within the company"
+		},
+		"crm": {
+			"name": "CRM and ERP",
+			"title": "CRM and ERP",
+			"system": {
+				"title": "The advantages of the CRM system:",
+				"items": {
+					"item1": "Automation of routine tasks;",
+					"item2": "Clear understanding of customer's behaviors;",
+					"item3": "Interaction with customers to build strong and lasting relationships."
+				}
+			}
+		},
+		"erp": {
+			"system": {
+				"title": "ERP system is designed to:",
+				"items": {
+					"item1": "Manage core business processes in a centralized way.",
+					"item2": "Have access to accurate and up to date data;",
+					"item3": "Increase productivity and efficiency;",
+					"item4": "Reduce operational costs."
+				}
+			}
+		},
+		"mobileApp": {
+			"name": "Mobile Apps",
+			"title": "Mobile Apps",
+			"description": "Our UX/UI designers make user-friendly and eye-catching mobile apps opting for the new emerging design trends with due regard to the customer's requirements. Upon the design, the website is coded using the latest technologies with various programming languages and libraries. The mobile apps developed by our Company are supported on both iOS and Android platforms."
+		},
+		"website": {
+			"name": "Website creation",
+			"title": "Website creation",
+			"description": "We create a website taking due regard to the company's vision. Our web designers offer innovative design trends. Using the latest technologies with programming languages such as HTML5, CSS, JS (react js., vue js., angular js.), the websites are coded in pixel perfect accuracy and adapted to mobile and other devices of different sizes. Finally, the Site architecture, also known as website structure is created and the maximum speed is ensured.",
+			"uxui": {
+				"title": "UI/UX design",
+				"description": "We build a user friendly design interface with the latest UI/UX design tools."
+			},
+			"mobileOptimization": {
+				"title": "Mobile optimization",
+				"description": "We optimize the websites to adapt and respond various screen sizes and resolutions"
+			},
+			"frontend": {
+				"title": "Front-end",
+				"description": "We code your designs in pixel piece accuracy via various programming languages, such as HTML, CSS, JS"
+			},
+			"backend": {
+				"title": "Back-end",
+				"description": "Creating a site architecture and ensuring its maximum speed."
+			},
+			"security": {
+				"title": "Cyber security",
+				"description": "Protecting the systems, networks, programs, designs and data against cyber attacks."
+			},
+			"seo": {
+				"title": "SEO",
+				"description": "Increasing a website's visibility in search rankings with target keywords"
+			}
+		},
+		"gaming": {
+			"name": "Gaming Apps",
+			"title": "Gaming Apps",
+			"description": "Şirkətin fəaliyyət göstərdiyi istiqamətə, istehsal etdiyi məhsullara uyğun olaraq oyun ssenarisi hazırlanır, son trendlərə əsaslanaraq dizayn olunur və oyun developerləri tərəfindən 2D və 3D formatında oyunlar yazılır. Oyunun növünə uyğun assetlərdən istifadə edilir.",
+			"vr": {
+				"name": "Stand and VR Games",
+				"title": "Stand and VR Games",
+				"description": "BIRainy creates stand and VR games tailored to business needs and activity, incorporating their own elements, logos, and providing entertainment for customers while offering exclusive discounts.",
+				"list": {
+					"title": "Stand and VR games contribute to the company at events, forums, gatherings, and openings by:",
+					"items": {
+						"item1": "Increasing customer attention span on a scale from 1 to 5;",
+						"item2": "Ensuring customers pay more attention and interest to specific product(s);",
+						"item3": "Making the entertainment between event sessions more interesting and active;",
+						"item4": "Creating organic advertising."
+					}
+				}
+			},
+			"web": {
+				"name": "Web Games",
+				"title": "Web Games",
+				"description": "Building web games to ensure the user stays on the website for an extended period and to organically increase the visibility of business websites in search engines.",
+				"list": {
+					"items": {
+						"item1": "Ensures the rise of business websites to the top of search engines organically;",
+						"item2": "Ensures that individ0uals spend more time on the site;",
+						"item3": "Increases the site's performance and ensures a traffic flow;",
+						"item4": "Ensures the website appears in the top ranks of search engines."
+					}
+				}
+			},
+			"simulator": {
+				"name": "VR Simulators",
+				"title": "VR Simulators",
+				"description": "VR simulators are developed and equipped with VR glasses such as Hololens, Oculus according to the desires of business.",
+				"accordion": {
+					"item1": {
+						"title": "Sales",
+						"description": "Allowing customers in technology stores to virtually test productsməsi"
+					},
+					"item2": {
+						"title": "VR Learning Simulators",
+						"description": "Enhancing practical skills of professionals with VR simulators"
+					},
+					"item3": {
+						"title": "Museum",
+						"description": "Making virtual visits into the lives of art pieces, historical events, and personalities"
+					},
+					"item4": {
+						"title": "Virtual Tourism",
+						"description": "Virtual pre-arrangement and the journey of tourists or travelers to hotels."
+					},
+					"item5": {
+						"title": "Construction",
+						"description": "Utilizing VR technology to showcase information about buildings and providing a 360° tour around the building."
+					},
+					"item6": {
+						"title": "Manufacturing",
+						"description": "Discovering potential hazardous situations by simulating configurations of the assembly line and manufacturing processes."
+					}
+				}
+			},
+			"monitor": {
+				"name": "Gaming Monitor Rentals",
+				"title": "Gaming Monitor Rentals",
+				"description": "It is possible to rent monitors along with the stand games we offer.",
+				"cards": {
+					"item1": {
+						"title": "Screen diagonal, (inches)",
+						"description": "139sm (55')"
+					},
+					"item2": {
+						"title": "Body",
+						"description": "Iron frame"
+					},
+					"item3": {
+						"title": "Monitor",
+						"description": "Anti-theft, anti-vandal glass, protective screen and touch sensor panel"
+					}
+				}
+			}
+		},
+		"analytics": {
+			"name": "Data Analytics",
+			"title": "Data Analytics",
+			"description": "Upon collection of the business data from various sources and in different formats, BIRainy LLC cleans up the data. The cleaned up data is visualized with graphics, and upon analysis, business-oriented analytical solutions are proposed to the Company. In the final stage, the company can also view information based on new data in real-time on ready dashboards.",
+			"financial": {
+				"name": "Financial analytics",
+				"title": "Financial analytics",
+				"description": "This analysis aims to assess the profitability, liquidity and solvency of the company, to make better investment or credit decisions.",
+				"list": {
+					"title": "Financial analysis conducted to evaluate the financial status of any business includes:",
+					"items": {
+						"item1": "Financial statements",
+						"item2": "Profit and Loss statements",
+						"item3": "Cash flow statements."
+					}
+				}
+			},
+			"hr": {
+				"name": "HR analytics",
+				"title": "HR analytics",
+				"description": "The ultimate goal of HR analytics is to identify patterns, areas for improvement, and strategic opportunities for workforce planning.",
+				"list": {
+					"title": "HR analytics involves the collection and analysis of data about Company's employees. Such analysis is carried out using both quantitative and qualitative methods, as well as:",
+					"items": {
+						"item1": "Staff turnover rates",
+						"item2": "Recruitment costs",
+						"item3": "Employment level",
+						"item4": "Evaluation of indicators such as training effectiveness."
+					}
+				}
+			},
+			"optimization": {
+				"name": "Optimization modelling",
+				"title": "Optimization modelling",
+				"description": "Optimization modeling refers to the process of using mathematical models and methods to determine the optimal solution to a resource allocation or selection problem. Optimization modelling has a wide range of applications in areas such as finance, engineering, logistics and operations management and helps to increase efficiency, reduce costs, and improve performance."
+			},
+			"procurement": {
+				"name": "Procurement analytics",
+				"title": "Procurement analytics",
+				"list": {
+					"title": "Procurement analytics is a review of a company's procurement activities to gain insight into its procurement activities and identify opportunities for cost savings and process improvement. Hence, various data such as purchase orders, supplier performance and inventory levels are analyzed by identifying trends, potential risks and areas for improvement. Procurement analytics helps companies make better decisions about the following, leading to greater efficiency and profitability:",
+					"items": {
+						"item1": "Supplier selection",
+						"item2": "Contract negotiations",
+						"item3": "Inventory management"
+					}
+				}
+			},
+			"kpi": {
+				"name": "Key Performance Indicators",
+				"title": "Key Performance Indicators (KPI) analytics",
+				"description": "KPI analytics aims to assess the company's activities against its strategic goals and objectives. This process aims to select and track the KPI's which are vital for business success, using metrics such as customer retention rate, sales growth, or employee productivity. These metrics provide insights into company performance and are valuable tools which allow to make better decisions towards improving business results"
+			},
+			"integration": {
+				"name": "Integration with 1C program",
+				"title": "Integration with 1C program",
+				"description": "Import of the data from 1C software to Microsoft Power BI is intended for data analysis and visualization. Such integration enables a business to make well-founded decisions relying on up-to-date data analysis."
+			},
+			"hse": {
+				"name": "HSE analytics",
+				"title": "HSE analytics",
+				"description": "Health, Safety and Environmental (HSE) risk analysis involves the assessment of potential hazards associated with a project or operation. Its purpose is to identify the likelihood and consequences of these risks, enabling a business to implement effective risk management approaches. HSE analysis is vital in maintaining workplace safety and regulatory compliance, particularly in industries such as construction, manufacturing and energy."
+			},
+			"sales": {
+				"name": "Sale/KPI",
+				"title": "Sale/KPI",
+				"description": "The Sales and KPI analysis report provided by BIRainy allows you to track the different phases of the sales process. Through this report, entrepreneurs become well-informed about warehouse status, customer group preferences, sales and revenues.",
+				"list": {
+					"title": "The report includes following metrics:",
+					"items": {
+						"item1": "To what extent the set goals have been achieved; the units demonstrating better or worse results",
+						"item2": "Preferred products and brands in local areas",
+						"item3": "Analysis of sales during different periods, analysis of the most profitable days",
+						"item4": "Products and brands that customers are more likely to buy by demographic factors",
+						"item5": "Customers' preferences about payment methods and currency",
+						"item6": "Statistics on products entering the warehouse and being transported from there to stores"
+					}
+				}
+			},
+			"social": {
+				"name": "Social Media Dashboard",
+				"title": "Social Media Dashboard",
+				"description": "BIRainy's Social Media dashboard provides a comprehensive analysis of performance indicators across managed platforms. This analysis focuses on key real-time metrics that provide insights into audience interaction, content effectiveness, and overall platform development.",
+				"list": {
+					"title": "The components include:",
+					"items": {
+						"item1": "Total number of likes/comments/followers/posts/impressions/reaches",
+						"item2": "Click-through-rate and new followers",
+						"item3": "Analysis of comments and likes by date",
+						"item4": "Activity rate, etc"
+					}
+				}
+			},
+			"restaurant": {
+				"name": "Restaurant analytics",
+				"title": "Restaurant analytics",
+				"description": "Restaurant analytics is an important tool that provides information about various aspects of the restaurant's operations. It allows to assess financial health, make better decisions, manage inventory, understand customer preferences, evaluate employee performance, and ensure compliance with rules.",
+				"list": {
+					"title": "The dashboard developed by BIRainy includes:",
+					"items": {
+						"item1": "General information about the restaurants (menu, category and number of branches)",
+						"item2": "Service/Food rating",
+						"item3": "Average service time",
+						"item4": "Categories/Restaurants/Payment Type/Customer Type/Order Type/Menu Payment",
+						"item5": "Number of servings",
+						"item6": "Total amount",
+						"item7": "Payments difference rate with previous month",
+						"item8": "Number of customers",
+						"item9": "Percentage difference in the number of customers compared to previous month",
+						"item10": "Payments by date and the dynamics of the evolution of the number of customers",
+						"item11": "Percentage distribution of the number of customers by quarters",
+						"item12": "Dynamics of food products and service rating by date",
+						"item13": "Description of food products"
+					}
+				}
+			}
+		}
+	}
+}
